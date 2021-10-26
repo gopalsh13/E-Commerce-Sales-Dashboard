@@ -15,7 +15,7 @@ Domain:  E-Commerce
 
 Dataset Description
 
-We will be using E-Commerce Dashboard.xlsx Dataset [here](https://www.dropbox.com/s/c630y2ewbymlbum/BA%20with%20Excel.zip?dl=0&file_subpath=%2FBA+with+Excel).
+We will be using E-Commerce Dashboard.xlsx Dataset which is uploaded in the repo.
 
 * E-Commerce Dashboard which covers Orders data for various Product Category;
 
